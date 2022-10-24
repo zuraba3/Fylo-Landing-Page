@@ -20,8 +20,8 @@ This is a solution to the [Fylo landing page with two column layout](https://www
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Fylo-Landing-Page)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Fylo-Landing-Page/)
 
 ## My process
 
